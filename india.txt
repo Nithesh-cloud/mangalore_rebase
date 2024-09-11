@@ -5,3 +5,5 @@ team vice captain add as V Kohli
 team wk add as k l rahul
 
 team coach add ad rahul dravid
+
+team openning batsman add as rohith sharma
