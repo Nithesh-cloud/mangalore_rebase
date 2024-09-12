@@ -9,3 +9,5 @@ team coach add ad rahul dravid
 team openning batsman add as rohith sharma
 
 team fast bowlers bumrah , shammi, harshadeep
+
+team top order batsman rohith sharma ,k l rahul , kohli , shreyas, gill , dhoni
