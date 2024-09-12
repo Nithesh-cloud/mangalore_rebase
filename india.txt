@@ -7,3 +7,5 @@ team wk add as k l rahul
 team coach add ad rahul dravid
 
 team openning batsman add as rohith sharma
+
+team fast bowlers bumrah , shammi, harshadeep
